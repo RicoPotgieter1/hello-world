@@ -6,3 +6,4 @@
 - Scimba: https://scrimba.com/home
 - Tailwind documentation: https://tailwindcss.com/docs/styling-with-utility-classes
 - Unsplash: https://unsplash.com/
+- Python documentation: https://docs.python.org/3.13/

@@ -7,3 +7,4 @@
 - Tailwind documentation: https://tailwindcss.com/docs/styling-with-utility-classes
 - Unsplash: https://unsplash.com/
 - Python documentation: https://docs.python.org/3.13/
+- Python C50P course: https://cs50.harvard.edu/python/

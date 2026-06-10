@@ -1,7 +1,7 @@
 # Links to remember
 - Unigenie: https://unigenie.vercel.app/dashboard
 - ED typingclub: https://unicollege.typingclub.com/sportal/
-- Md web documentation: https://developer.mozilla.org/en-US/
+- MDN web documentation: https://developer.mozilla.org/en-US/
 - W3Schools: https://www.w3schools.com/
 - Scimba: https://scrimba.com/home
 - Tailwind documentation: https://tailwindcss.com/docs/styling-with-utility-classes

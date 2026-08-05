@@ -4,6 +4,8 @@
 - MDN web documentation: https://developer.mozilla.org/en-US/
 - W3Schools: https://www.w3schools.com/
 - Scimba: https://scrimba.com/home
+- Khan Academy: https://www.khanacademy.org/
+- Geeks for Geeks: https://www.geeksforgeeks.org/
 - Tailwind documentation: https://tailwindcss.com/docs/styling-with-utility-classes
 - Unsplash: https://unsplash.com/
 - Python documentation: https://docs.python.org/3.13/
